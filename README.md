@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">👋 Olá, eu sou João Victor</h1>
 
 <h3 align="center">💻 Desenvolvedor Web em evolução 🚀</h3>
@@ -78,4 +78,4 @@
 <p align="center">
 ✨ Sempre aprendendo e criando projetos para evoluir na programação ✨
 </p>
-```
+
