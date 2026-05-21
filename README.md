@@ -4,9 +4,8 @@
 <h3 align="center">💻 Desenvolvedor Web em evolução 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+TI+-+SENAI;Focado+em+Desenvolvimento+Web;Node.js+•+JavaScript+•+MySQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+TI+-+SENAI;Desenvolvedor+Web+em+evolução;Node.js+•+JavaScript+•+MySQL" />
 </p>
-
 ---
 
 ## 🧠 Sobre Mim
