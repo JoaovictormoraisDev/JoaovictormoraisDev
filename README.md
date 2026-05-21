@@ -1,4 +1,4 @@
-```md
+
 # 👋 Olá, eu sou João Victor
 
 ## 💻 Desenvolvedor Full Stack em evolução 🚀
@@ -46,4 +46,4 @@
 ## 📫 Contato
 
 📧 joaovictormorais2101@gmail.com
-```
+
